@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vito</h1>
 <h3 align="center">A passionate developer from Serbia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=onajlikezz&label=Profile%20views&color=0e75b6&style=flat" alt="vittoq" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vittoq&label=Profile%20views&color=0e75b6&style=flat" alt="vittoq" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onajlikezz" alt="vittoq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vittoq" alt="vittoq" /></a> </p>
 
 <p align="center"> 🔭 I’m currently working on <a href="https://github.com/onajlikezz/QuantumNuker" target="_blank">QuantumNuker!</a></p>
 
@@ -12,8 +12,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a align="center" href="https://instagram.com/onajlikezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onajlikezz" height="30" width="40" /></a>
-<a align="center" href="https://discord.gg/https://discord.gg/Kj64D4ddtK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Kj64D4ddtK" height="30" width="40" /></a>
+<a align="center" href="https://discord.gg/https://discord.gg/Kj64D4ddtK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QS92nNuGAU" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -24,11 +23,11 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=onajlikezz&show_icons=true&locale=en&layout=compact" alt="onajlikezz" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vittoq&show_icons=true&locale=en&layout=compact" alt="vittoq" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onajlikezz&show_icons=true&locale=en" alt="onajlikezz" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vittoq&show_icons=true&locale=en" alt="vittoq" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onajlikezz&" alt="onajlikezz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vittoq&" alt="vittoq" /></p>
 
 
 <p align="center">
